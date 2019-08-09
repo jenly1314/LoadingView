@@ -3,6 +3,7 @@
 [![Download](https://img.shields.io/badge/download-App-blue.svg)](https://raw.githubusercontent.com/jenly1314/LoadingView/master/app/release/app-release.apk)
 [![Jitpack](https://jitpack.io/v/jenly1314/LoadingView.svg)](https://jitpack.io/#jenly1314/LoadingView)
 [![CI](https://travis-ci.org/jenly1314/LoadingView.svg?branch=master)](https://travis-ci.org/jenly1314/LoadingView)
+[![CircleCI](https://circleci.com/gh/jenly1314/LoadingView.svg?style=svg)](https://circleci.com/gh/jenly1314/LoadingView)
 [![API](https://img.shields.io/badge/API-16%2B-blue.svg?style=flat)](https://android-arsenal.com/api?level=16)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/mit-license.php)
 [![Blog](https://img.shields.io/badge/blog-Jenly-9933CC.svg)](https://jenly1314.github.io/)
