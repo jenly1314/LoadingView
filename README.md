@@ -17,7 +17,7 @@ LoadingView for Android 是一个圆弧加载过渡动画，圆弧个数，大�
 ## LoadingView自定义属性说明（默认渐变色）
 | 属性 | 值类型 | 默认值 | 说明 |
 | :------| :------ | :------ | :------ |
-| lvCount | dimension | 1 | 圆弧数量 |
+| lvCount | integer | 1 | 圆弧数量 |
 | lvStartAngle | integer | 0 | 圆弧开始角度，默认三点钟方向 |
 | lvSweepAngle | integer | 360 | 圆弧扫描角度范围 |
 | lvStrokeWidth | dimension | 3dp | 笔画描边的宽度 |
@@ -25,7 +25,7 @@ LoadingView for Android 是一个圆弧加载过渡动画，圆弧个数，大�
 | lvMinSpeed | integer | 3 | 最小速度 |
 | lvCirclePadding | dimension | 2dp | 圆弧之间的间距 |
 | lvRefreshInterval | integer | 15 | 刷新间隔时间，单位ms |
-| lvColor | color | | 圆弧颜色,默认渐变色 |
+| lvColor | color | | 圆弧颜色，默认渐变色 |
 | lvCounterclockwise | boolean | false | 是否逆时针方向旋转 |
 
 
